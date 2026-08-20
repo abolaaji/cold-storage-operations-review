@@ -1,11 +1,15 @@
-## Key Findings
-The analysis identified five key operational observations:
-| # | Observation | Operational Impact |
+## Root Cause Analysis
+The analysis identified several underlying factors contributing to the operational challenges observed.
+| Symptom | Root Cause |
 | --- | --- | --- |
-| 1 | Only two staff handled all store-wide payments, with no trained backup | Increased risk of checkout delays when either payment staff member was available |
-| 2 | A disciplinary conversation took place during peak hours | Disrupted service during a busy operating period |
-| 3 | Customers reported meeting different workers on different visits | Reduced customer familiarity and potentially affected trust |
-| 4 | Staff and management operated across different language capabilities | Created challenges for real-time coaching and floor supervision |
-| 5 | Regular customers reported frequent new or unfamiliar staff | Suggested a possible underlying staff turnover issue |
-### Key Insight
-The queue problem appeared to be more than a temporary checkout issue. The observations pointed toward a broader **staffing and operational resilience problem**, particularly the dependency on a small number of payment staff and the absence of trained backup capacity.
+| Long queues during the incident
+| No trained backup for payment roles, creating a structured staffing gap |
+| Service disruption during peak hours | Poor sequencing of disciplinary action during a busy operational period |
+| Inconsistent customer experience
+| Possible downstream effect of staff turnover and lack of standardized staffing/rotation |
+| Supervision gaps | Management's language limitation restricted real-time oversight and coaching |
+| Recurring new or unfamiliar staff | Possible underlying staff turnover issue; the specific cause was not confirmed |
+### Root Cause Insight
+The analysis suggests that the checkout queue was not simply a result of high customer volume. A key contributing factor was **operationsl dependency on a small number of payment staff without adequate backup capacity**.
+Other observations pointed to broader workforce and management issues that could contribute to inconsistent service delivery.
+>**Note:** Some root causes, particularly those relating to staff turnover and management practices, were inferred from observations and informal customer conversations and were not independently confirmed through internal HR or management data.
