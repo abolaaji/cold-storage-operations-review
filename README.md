@@ -25,8 +25,7 @@ The facility had multiple product sections, each staffed by a dedicated attendan
     Information was gathered through:
     - **Direct observation:**
       Observing queue formation, staff movement, and a real-time staffing incident during a live visit.
-      - **Informal customer conversations:**
-      - Listening to customer experiences and recurring observations while waiting in the checkout queue.
+      - **Informal customer conversations:**Listening to customer experiences and recurring observations while waiting in the checkout queue.
       - **Structural observation:**
         Examining the relationship between the facility's product sections, staffing model, and centralized payment process.
         The analysis combined these observations to identify operational patterns, potential root causes, and improvement opportunities.
