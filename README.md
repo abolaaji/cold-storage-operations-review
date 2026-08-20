@@ -1,12 +1,16 @@
-## Root Cause Analysis
-The analysis identified several underlying factors contributing to the operational challenges observed.
-| Symptom | Root Cause |
-| --- | --- | 
-| Long queues during the incident | No trained backup for payment roles, creating a structured staffing gap |
-| Service disruption during peak hours | Poor sequencing of disciplinary action during a busy operational period |
-| Inconsistent customer experience | Possible downstream effect of staff turnover and lack of standardized staffing/rotation |
-| Supervision gaps | Management's language limitation restricted real-time oversight and coaching | Recurring new or unfamiliar staff | Possible underlying staff turnover issue; the specific cause was not confirmed |
-### Root Cause Insight
-The analysis suggests that the checkout queue was not simply a result of high customer volume. A key contributing factor was **operational dependency on a small number of payment staff without adequate backup capacity**.
-Other observations pointed to broader workforce and management issues that could contribute to inconsistent service delivery.
->**Note:** Some root causes, particularly those relating to staff turnover and management practices, were inferred from observations and informal customer conversations and were not independently confirmed through internal HR or management data.
+## Recommendations
+The following recommendations were developed based on the observed operational issues and identified root causes.
+| Priority | Recommendation | Expected Benefit |
+| --- | --- | --- |
+| High | Cross-train 2-3 additional staff to support payment operations | Reduces dependency on two payment staff and improves checkout resilience | High | Investigate the underlying causes of staff turnover through exit conversations or staff surveys | Helps identify and address recurring workforces issues | Medium | Move disciplinary conversations away from the customer-facing floor and peak operating periods | Minimizes disruption to customer service | Medium | Introduce basic language support  | Improves real-time communication, coaching, and floor supervision | Medium | Standardize staffing rotations and service delivery procedures where feasible | Improves consistency in customer experience |
+### Prioritization Approach
+The recommendations were prioritized based on their expected operational impact and relative ease of implementation.
+**Immediate / Low Cost**
+- Cross-training payment backups
+- Moving disciplinary conversations away from peak periods
+  **Medium-Term**
+  - Investigating staff turnover
+  - Standardizing staffing rotations
+    **Longer-Term**
+    - Addressing language and supervision gaps
+    
