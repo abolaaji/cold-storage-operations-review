@@ -1,7 +1,7 @@
 ## Root Cause Analysis
 The analysis identified several underlying factors contributing to the operational challenges observed.
 | Symptom | Root Cause |
-| --- | --- | --- |
+| --- | --- | 
 | Long queues during the incident
 | No trained backup for payment roles, creating a structured staffing gap |
 | Service disruption during peak hours | Poor sequencing of disciplinary action during a busy operational period |
