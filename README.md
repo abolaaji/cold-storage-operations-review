@@ -1,16 +1,24 @@
-## Recommendations
-The following recommendations were developed based on the observed operational issues and identified root causes.
-| Priority | Recommendation | Expected Benefit |
-| --- | --- | --- |
-| High | Cross-train 2-3 additional staff to support payment operations | Reduces dependency on two payment staff and improves checkout resilience | High | Investigate the underlying causes of staff turnover through exit conversations or staff surveys | Helps identify and address recurring workforces issues | Medium | Move disciplinary conversations away from the customer-facing floor and peak operating periods | Minimizes disruption to customer service | Medium | Introduce basic language support  | Improves real-time communication, coaching, and floor supervision | Medium | Standardize staffing rotations and service delivery procedures where feasible | Improves consistency in customer experience |
-### Prioritization Approach
-The recommendations were prioritized based on their expected operational impact and relative ease of implementation.
-#### Immediate / Low Cost
-- Cross-training payment backups
-- Moving disciplinary conversations away from peak periods
-  #### Medium-Term
-  - Investigating staff turnover
-  - Standardizing staffing rotations
-    #### Longer-Term
-    - Addressing language and supervision gaps
+## Limitations
+This analysis has several limitations:
+- The analysis was based on a single site visit and customer-perspective observation.
+- Internal operational data such as staffing records, turnover rates, sales data, and queue-time metrics were not avaliable.
+- Some root causes relating to staff turnover and language impact were inferred from observed patterns and infromal converstaions rather than confirmed through managemnet or HR data.
+- Customer sentiment was gathered through informal conversations and was not statistically representative of the wider customer population.
+  These limitations mean that the findings should be treated as **observational insights and hypotheses for further investigation**, rather than definitive measurements of operational performance.
+  ## Conclusion
+  The analysis suggests that the checkout challenges were linked to broader operational and workforce factors rather than a single isolated incident.
+  The most immediate vulnerability identified was the facility's dependence on a small number of payment staff without trained backup capacity. Other observations suggested potential workforce, staffing-rotation, and supervision challenges that could contribute to inconsistent customer experiences.
+  The recommended approach is to strengthen payment-role redundancy, investigate workforce turnover, improve operationsl scheduling, and standardize service delivery.
+  Overall, the case demonstrates how **structured observation can be used to identify operational problems, develop root-cause hypotheses, and translate findings into practical business recommendations.**
+  ## Skills Demonstrated
+  - Business Problem Identification
+  - Observational Analysis
+  - Process Analysis
+  - Root Cause Analysis
+  - Customer Experience Analysis
+  - Workforce & Staffing Analysis
+  - Business Recommendations
+  - Prioritization
+  - Critical Thinking
+  - Business Communication
     
