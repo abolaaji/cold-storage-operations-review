@@ -1,11 +1,16 @@
-## Business Problem
-The cold storage retail facility was experiencing long checkout queues and inconsistent service quality, with the issue becoming noticeable enough for regular customers to comment on it.
-The facility had multiple product sections, each staffed by a dedicated attendant, but all customer payments were centralized through only two staff memebers:
-- One staff member handling online transfers
-- One staff member handling cash payments
-  This created an operational dependency on two payment staff. When either person was unavailable or pulled away from the payment role, there was no trained backup to maintain payment operations effectively.
-  ### Core Business Question
-  > Why were checkout queues forming, and what operational factors were driving the inconsistent customer experience?
-  ### Business Impact
-  The recurring checkout friction and inconsistent service experience presented a potential customer-retention risk in a competitive retail environment.
+## Objectives
+The analysis aimed to:
+- Identify the operational factors contributing to checkout queue formation.
+- Examine how staffing structure affected service delivery.
+- Identify potential root causes of inconsistent customer experience.
+- Develop practical recommendations to improve operational efficiency and service consistency.
+  ## Data Collection & Methodology
+  This was an observational case study rather than a formal data-driven engagement.
+  -**Direct observation:**
+  Observing queue formation, staff movement, and a real-time staffing incident during a live visit.
+  -**Informal customer conservations:**
+  Listening to customer experiences and recurring observations while waiting in the checkout queue.
+  -**Structural observation:**
+  Examining the relationship between the facility's product sections, staff model, and centralized payment process.
+  The analysis combined these observations to identify operational patterns, potential root causes, and improvement opportunities.
   
