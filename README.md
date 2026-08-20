@@ -2,10 +2,10 @@
 The analysis identified several underlying factors contributing to the operational challenges observed.
 | Symptom | Root Cause |
 | --- | --- | 
-| Long queues during the incident
+| Long queues during the incident |
 | No trained backup for payment roles, creating a structured staffing gap |
 | Service disruption during peak hours | Poor sequencing of disciplinary action during a busy operational period |
-| Inconsistent customer experience
+| Inconsistent customer experience |
 | Possible downstream effect of staff turnover and lack of standardized staffing/rotation |
 | Supervision gaps | Management's language limitation restricted real-time oversight and coaching |
 | Recurring new or unfamiliar staff | Possible underlying staff turnover issue; the specific cause was not confirmed |
