@@ -6,7 +6,7 @@ This case study examines a cold storage retail facility experiencing long checko
 The analysis was conducted from a customer perspective through direct observation of store operations, informal customer conversations, and observation of the facility's staffing and payment structure.
 The objective was to understand the operational factors contributing to queue formation and inconsistent customer experience, identify potential root causes, and recommend practical process improvements.
 **Analysis Type:** Observational Process & Workforce Analysis
-##Business Problem
+## Business Problem
 The cold storage retail facility was experiencing long checkout queues and inconsistent service quality, with the issue becoming noticeable enough for regular customers to comment on it.
 The facility had multiple product sections, each staffed by a dedicated attendant, but all customer payments were centralized through only two staff members:
 - One staff member handling online transfers
