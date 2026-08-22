@@ -94,5 +94,7 @@ This analysis has several limitations:
   - Critical Thinking
   - Business Communication
     ## Project Document
-    [View Full Case Study} (./Cold%20Storage%20Operations%20Review%A%20Customer%20Perspective%20Case%20Study%20%28 1%29.docx)
+    [View Full Case Study]
+    (https://github.com/abolaaji/cold-storage-operations-review/blob/fcdf2dabe21ae0df1613b23aedd18f89f4a9e31a/Cold%20Storage%20Operations%20Review%20A%20Customer%20Perspective%20Case%20Study.pdf)
+    
     
