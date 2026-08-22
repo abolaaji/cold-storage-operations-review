@@ -93,4 +93,6 @@ This analysis has several limitations:
   - Prioritization
   - Critical Thinking
   - Business Communication
+    ## Project Document
+    [View Full Case Study} (./Cold%20Storage%20Operations%20Review%A%20Customer%20Perspective%20Case%20Study%20%28 1%29.docx)
     
